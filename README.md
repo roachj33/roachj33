@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @roachj33
+- 👀 I’m interested in applying machine learning methodologies and data analysis tools to better understand the world around us!
+- 🌱 I’m currently learning web development & scraping in Python and database management systems.
+- 📗 I'm a recent graduate with a B.S. in Economics and a B.A. in Mathematics.
+- 🎸 And I love to play music in my free time!
